@@ -6,4 +6,4 @@ This is a repository of good liturgical music, made available for anybody who wa
 
 Here's a test to make sure that Git still updates after my username change.
 
-Here's another test.
+This is a test to determine if I can merge to main
