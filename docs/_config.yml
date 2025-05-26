@@ -1,6 +1,7 @@
 # Site settings
 title: Liturgical Music
-# remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0 # commented out for testing purposes
+
 plugins:
 - jekyll-remote-theme
 
