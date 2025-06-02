@@ -1,24 +1,22 @@
-# id: 0
 -
-  url: /assets/pdfs/Praetorius Aeterno gratias Patri.pdf
-  type: pdf
-  name: Praetorius Aeterno gratias Patri
+  path: /assets/pdf/Praetorius Aeterno gratias Patri.pdf
+  name: Aeterno gratias Patri
   composer: Michael Praetorius
   voicing: SATTB
 
 -
-  type: pdf
-  name: Praetorius Foo bar
+  path: /assets/pdf/Praetorius Kyrie.pdf
+  name: Kyrie
+  composer: Michael Praetorius
+  voicing: SATB
+-
+  path: /assets/pdf/Praetorius Der Morgenstern ist aufgedrungen.pdf
+  name: Der Morgenstern ist aufgedrungen
+  composer: Michael Praetorius
+  voicing: SATB
 
 -
-  name: Praetorius Bar foo
-
--
-  composer: A butt
-
--
-  url: /assets/book.pdf
-  type: application/pdf
-  name: My book
-  
-  
+  path: /assets/pdf/Schütz Nunc dimittis SWV 433
+  name: Nunc dimittis, SWV 433
+  composer: Heinrich Schütz
+  voicing: SSATTB
