@@ -16,13 +16,11 @@
 		</div>
 		<div class="col">
 			<h1 class="display-1">{{ site.title }}</h1>
-			<nav class="navbar navbar-expand-lg" style="background-color: #e3f2fd;">
-				<div class="navbar-nav">
-					{%- assign list_pages = site.html_pages | where_exp: "item", "item.title != 'Home'" %}
-					{%- for p in list_pages %}
-						<a href="{{ p.url | relative_url }}" class="nav-link">{{ p.title }}</a>
-					{%- endfor %}
-				</div>
+			<nav class="nav bg-light">
+				{%- assign list_pages = site.html_pages | where_exp: "item", "item.title != 'Home'" %}
+				{%- for p in list_pages %}
+					<a href="{{ p.url | relative_url }}" class="nav-link">{{ p.title }}</a>
+				{%- endfor %}
 			</nav>
 		</div>
 	</div>
