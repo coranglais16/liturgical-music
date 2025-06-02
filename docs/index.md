@@ -5,9 +5,8 @@ layout: front_page
 This is a repository of good liturgical music, made available for anybody who wants it.
 
 {% for id in site.data.database %}
-	- {{ id.composer }}: [{{ id.name }}]({{ id.path }})
+- {{ id.composer }}: [{{ id.title }}]({{ id.path }}): {{ id.voicing }}
 {% endfor %}
-
 
 ---------
 
