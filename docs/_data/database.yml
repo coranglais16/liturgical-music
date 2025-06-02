@@ -1,0 +1,24 @@
+# id: 0
+-
+  url: /assets/pdfs/Praetorius Aeterno gratias Patri.pdf
+  type: pdf
+  name: Praetorius Aeterno gratias Patri
+  composer: Michael Praetorius
+  voicing: SATTB
+
+-
+  type: pdf
+  name: Praetorius Foo bar
+
+-
+  name: Praetorius Bar foo
+
+-
+  composer: A butt
+
+-
+  url: /assets/book.pdf
+  type: application/pdf
+  name: My book
+  
+  
