@@ -3,12 +3,6 @@ title: Home
 ---
 This is a repository of good liturgical music, made available for anybody who wants it.
 
-{% for id in site.data.database %}
-- {{ id.composer }}: [{{ id.title }}]({{ id.path }}): {{ id.voicing }}
-{% endfor %}
-
----
-
 <table>
 	<thead>
 		<tr>
@@ -19,11 +13,16 @@ This is a repository of good liturgical music, made available for anybody who wa
 		</tr>
 	</thead>
 	<tbody>
-
+    	{%- for id in site.data.database %}
+            {%- include table-rows.html 
+                composer=id.composer 
+                title=id.title 
+                url=id.path 
+                genre=id.genre 
+                voicing=id.voicing %}
+        {%- endfor %}
 	</tbody>
 </table>
-
----
 
 <!-- Then you can access the book entry at the id with site.data.assets[17]. You can create includes with parameters for every type you want to embed. For example:
 
