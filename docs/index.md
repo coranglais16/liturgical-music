@@ -14,14 +14,14 @@ This is a repository of good liturgical music, made available for anybody who wa
     		</tr>
     	</thead>
     	<tbody class="table-group-divider">
-        	{%- for id in site.data.database %}
-                {%- include table-rows.html 
+        	{% for id in site.data.database %}
+                {% include table-rows.html 
                     composer=id.composer 
                     title=id.title 
                     url=id.path 
                     genre=id.genre 
                     voicing=id.voicing %}
-            {%- endfor %}
+            {% endfor %}
     	</tbody>
     </table>
 </div>
