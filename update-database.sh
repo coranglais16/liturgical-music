@@ -7,6 +7,11 @@ genre="$3"
 voicing="$4"
 path="$5"
 
+if [ -z "$1" ]; then
+  echo "Usage: $0 TITLE COMPOSER GENRE VOICING PATH"
+  exit 1
+fi
+
 echo "" >> $yaml_file
 echo "-" >> $yaml_file
 echo "  path: $5" >> $yaml_file
