@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-yaml_file=docs/_data/testdb.yml
+yaml_file=docs/_data/database.yml
 title="$1"
 composer="$2"
 genre="$3"
