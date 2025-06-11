@@ -7,3 +7,4 @@ _site/
 vendor/
 /docs/Gemfile.lock
 !/docs/_sass/bootstrap/vendor/ # don't ignore Bootstrap's vendor/
+data.tsv
