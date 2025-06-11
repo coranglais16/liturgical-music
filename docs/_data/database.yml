@@ -405,3 +405,73 @@
   composer: Johannes Weinmann
   genre: Hymn stanza
   voicing: STTB
+
+-
+  path: path
+  title: title
+  composer: composer
+  genre: genre
+  voicing: voicing
+
+-
+  path: /assets/pdf/Eccard Aus Lieb läßt Gott der Christenheit.pdf
+  title: Aus Lieb läßt Gott der Christenheit
+  composer: Johannes Eccard
+  genre: Hymn
+  voicing: SSATB
+
+-
+  path: /assets/pdf/Eccard Der große Tag des Herren.pdf
+  title: Der große Tag des Herren
+  composer: Johannes Eccard
+  genre: Hymn
+  voicing: SAATB
+
+-
+  path: /assets/pdf/Eccard Erbarm dich mein a5.pdf
+  title: Erbarm dich mein, o Herre Gott
+  composer: Johannes Eccard
+  genre: Hymn
+  voicing: SATTB
+
+-
+  path: /assets/pdf/Eccard Freut euch ihr lieben Christen.pdf
+  title: Freut euch ihr lieben Christen
+  composer: Johannes Eccard
+  genre: Hymn
+  voicing: SATB
+
+-
+  path: /assets/pdf/Eccard Through Jesus' Blood and Merit.pdf
+  title: Through Jesus' Blood and Merit (stanza 2)
+  composer: Johannes Eccard
+  genre: Hymn stanza
+  voicing: SSATB
+
+-
+  path: /assets/pdf/Eccard Lob Gott getrost mit singen.pdf
+  title: Lob Gott getrost mit singen
+  composer: Johannes Eccard
+  genre: Hymn
+  voicing: SSATB
+
+-
+  path: /assets/pdf/Eccard Maria wallt zum Heiligtum.pdf
+  title: Maria wallt zum Heiligtum
+  composer: Johannes Eccard
+  genre: Motet
+  voicing: SSATBarB
+
+-
+  path: /assets/pdf/Eccard Mein schönste Zier.pdf
+  title: Mein schönste Zier und Kleinod bist
+  composer: Johannes Eccard
+  genre: Hymn
+  voicing: SSATB
+
+-
+  path: /assets/pdf/Eccard Was der alten Väter Schar.pdf
+  title: Was der alten Väter Schar
+  composer: Johannes Eccard
+  genre: Hymn stanza
+  voicing: SSATB

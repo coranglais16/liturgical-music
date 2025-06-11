@@ -1,32 +1,11 @@
 path	title	composer	genre	voicing
-/assets/pdf/Lassus Tibi soli peccavi.pdf	Tibi soli peccavi	Orlando de Lassus	Motet	SATB
-/assets/pdf/Luther Non moriar sed vivam.pdf	Non moriar sed vivam	Martin Luther	Motet	SATB
-/assets/pdf/Mozart Ave verum Corpus.pdf	Ave verum corpus	Wolfgang Amadeus Mozart	Motet	SATB
-/assets/pdf/Palestrina Adoramus te.pdf	Adoramus te, Christe	Giovanni Pierluigi da Palestrina	Motet	SATB
-/assets/pdf/Palestrina O salutaris hostia.pdf	O salutaris hostia	Giovanni Pierluigi da Palestrina	Motet	SATB
-/assets/pdf/Pearsall Ave verum.pdf	Ave verum corpus	Robert Lucas Pearsall	Motet	SATB
-/assets/pdf/Pöpel Virga Jesse.pdf	Virga Jesse floruit	Thomas Pöpel	Motet	SATB
-/assets/pdf/RVW Sussex carol.pdf	Sussex Carol	Ralph Vaughan Williams	Carol	SATB
-/assets/pdf/Schein Spiritus Sancti gratia	Spiritus Sancti gratia	Johann Hermann Schein	Hymn	SATB
-/assets/pdf/Schein When In the Hour of Deepest Need.pdf	When In the Hour of Deepest Need	Johann Hermann Schein	Hymn	SATB
-/assets/pdf/Schütz Selig sind die Toten.pdf	Selig sind die Toten	Heinrich Schütz	Motet	SSATTB
-/assets/pdf/Senfl Non moriar sed vivam.pdf	Non moriar sed vivam	Ludwig Senfl	Motet	SATB
-/assets/pdf/Sheppard Rejoice in the Lord always.pdf	Rejoice in the Lord always	John Sheppard	Motet	SATB
-/assets/pdf/Stobäus Such wer da will.pdf	Seek Where You May (stanza 3)	Johann Stobäus	Hymn stanza	SSATB
-/assets/pdf/Stoltzer Savior of the Nations Come.pdf	Savior of the Nations Come (stanza 4)	Thomas Stoltzer	Hymn stanza	SATB
-/assets/pdf/Tallis O Lord, in Thee is all my trust.pdf	O Lord, in Thee is all my trust	Thomas Tallis	Hymn	SATB
-/assets/pdf/Tallis Third mode melody.pdf	I Heard the Voice of Jesus Say	Thomas Tallis	Hymn	SATB
-/assets/pdf/Tomkins Have Mercy Upon Me.pdf	Have Mercy Upon Me, O God	Thomas Tomkins	Motet	SATTB
-/assets/pdf/Tomkins Praise the Lord.pdf	Praise the Lord, O My Soul	Thomas Tomkins	Motet	SATB
-/assets/pdf/Vulpius Caelos ascendit hodie Gen Himmel.pdf	Caelos ascendit hodie/Gen Himmel aufgefahren ist (English)	Melchior Vulpius	Hymn	SATB
-/assets/pdf/Vulpius Das neugeborne Kindelein.pdf	Das neugeborne Kindelein (English)	Melchior Vulpius	Hymn	SATB
-/assets/pdf/Vulpius Let the Church New Anthems Raise.pdf	Let the Church New Anthems Raise	Melchior Vulpius	Hymn	SATB
-/assets/pdf/Walter Allein auf Gottes Wort will ich.pdf	Allein auf Gottes Wort will ich	Johann Walter	Motet	SATB
-/assets/pdf/Walter Ein feste Burg.pdf	A Mighty Fortress is Our God (stanza 2)	Johann Walter	Hymn stanza	SATB
-/assets/pdf/Waldis Psalm 127.pdf	If God Make Not the House to Stand	Johannes Heugel	Psalm paraphrase	SATB
-/assets/pdf/Walter Herr Christ der einig Gottes Sohn.pdf	The Only Son From Heaven (stanza 3)	Johann Walter	Hymn stanza	SATB
-/assets/pdf/Walter Nun bitten wir a5.pdf	Nun bitten wir den heiligen Geist	Johann Walter	Motet	SATTB
-/assets/pdf/Walter Nun freut euch English a3.pdf	Dear Christians, One and All, Rejoice (stanza 5)	Johann Walter	Hymn stanza	SAB
-/assets/pdf/Walter The Lord My Trusty Shepherd Is.pdf	The Lord My Trusty Shepherd Is (stanza 3)	Johann Walter	Hymn stanza	SATB
-/assets/pdf/Weinmann Vater unser.pdf	Our Father, Who In Heaven Above (sts. 4 & 8)	Johannes Weinmann	Hymn stanza	STTB
-/assets/pdf/Walter Wo Gott der Herr nicht bei uns hält.pdf	Wo Gott der Herr nicht bei uns hält	Johann Walter	Motet	SATB
+/assets/pdf/Eccard Aus Lieb läßt Gott der Christenheit.pdf	Aus Lieb läßt Gott der Christenheit	Johannes Eccard	Hymn	SSATB
+/assets/pdf/Eccard Der große Tag des Herren.pdf	Der große Tag des Herren	Johannes Eccard	Hymn	SAATB
+/assets/pdf/Eccard Erbarm dich mein a5.pdf	Erbarm dich mein, o Herre Gott	Johannes Eccard	Hymn	SATTB
+/assets/pdf/Eccard Freut euch ihr lieben Christen.pdf	Freut euch ihr lieben Christen	Johannes Eccard	Hymn	SATB
+/assets/pdf/Eccard Through Jesus' Blood and Merit.pdf	Through Jesus' Blood and Merit (stanza 2)	Johannes Eccard	Hymn stanza	SSATB
+/assets/pdf/Eccard Lob Gott getrost mit singen.pdf	Lob Gott getrost mit singen	Johannes Eccard	Hymn	SSATB
+/assets/pdf/Eccard Maria wallt zum Heiligtum.pdf	Maria wallt zum Heiligtum	Johannes Eccard	Motet	SSATBarB
+/assets/pdf/Eccard Mein schönste Zier.pdf	Mein schönste Zier und Kleinod bist	Johannes Eccard	Hymn	SSATB
+/assets/pdf/Eccard Was der alten Väter Schar.pdf	Was der alten Väter Schar	Johannes Eccard	Hymn stanza	SSATB
+/assets/pdf/Eccard Weil unser Trost.pdf	Weil unser Trost, der Herre Christ	Johannes Eccard	Hymn	SSATB
