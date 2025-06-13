@@ -475,3 +475,38 @@
   composer: Johannes Eccard
   genre: Hymn stanza
   voicing: SSATB
+
+-
+  path: /assets/pdf/Hassler Canite tuba a5.pdf
+  title: Canite tuba in Sion
+  composer: Hans Leo Hassler
+  genre: Motet
+  voicing: SSATB
+
+-
+  path: /assets/pdf/Hassler Verbum caro factum est a6.pdf
+  title: Verbum caro factum est
+  composer: Hans Leo Hassler
+  genre: Motet
+  voicing: SSATTB
+
+-
+  path: /assets/pdf/Hassler Veni sancte Spiritus a5.pdf
+  title: Veni sancte Spiritus
+  composer: Hans Leo Hassler
+  genre: Motet
+  voicing: SATTB
+
+-
+  path: /assets/pdf/Hemmel O Herre Gott begnade mich.pdf
+  title: O Herre Gott, begnade mich
+  composer: Sigmund Hemmel
+  genre: Psalm
+  voicing: SATB
+  
+-
+  path: /assets/pdf/Heintz Nun bitten wir.pdf
+  title: Nun bitten wir
+  composer: Wolff Heintz
+  genre: Hymn
+  voicing: SATB
