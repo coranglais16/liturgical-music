@@ -407,13 +407,6 @@
   voicing: STTB
 
 -
-  path: path
-  title: title
-  composer: composer
-  genre: genre
-  voicing: voicing
-
--
   path: /assets/pdf/Eccard Aus Lieb läßt Gott der Christenheit.pdf
   title: Aus Lieb läßt Gott der Christenheit
   composer: Johannes Eccard
