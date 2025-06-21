@@ -503,3 +503,87 @@
   composer: Wolff Heintz
   genre: Hymn
   voicing: SATB
+
+-
+  path: /assets/pdf/Schutz Becker Psalm 13.pdf
+  title: Becker Psalm 13 (English)
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 45.pdf
+  title: Becker Psalm 45
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 85.pdf
+  title: Becker Psalm 85
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 96.pdf
+  title: Becker Psalm 96
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 119.pdf
+  title: Becker Psalm 119:1–16 (English)
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schutz Becker Psalm 120.pdf
+  title: Becker Psalm 120 (English)
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 127.pdf
+  title: Becker Psalm 127 (English)
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 134.pdf
+  title: Becker Psalm 134
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 144.pdf
+  title: Becker Psalm 144 (English)
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz John Passion ESV.pdf
+  title: John Passion turba choruses (ESV)
+  composer: Heinrich Schütz
+  genre: Passion
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 43.pdf
+  title: Becker Psalm 43
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+
+-
+  path: /assets/pdf/Schütz Becker Psalm 44.pdf
+  title: Becker Psalm 44
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
