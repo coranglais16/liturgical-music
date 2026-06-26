@@ -21,7 +21,7 @@ This is a repository of good liturgical music, made available for anybody who wa
                     url=id.path 
                     genre=id.genre 
                     voicing=id.voicing %}
-            {% endfor %}
+          {% endfor %}
     	</tbody>
     </table>
 </div>
