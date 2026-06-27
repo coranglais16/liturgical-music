@@ -4,13 +4,13 @@ title: Home
 This is a repository of good liturgical music, made available for anybody who wants it.
 
 <div class="table-responsive">
-    <table class="table table-sm table-hover">
+    <table class="table table-sm table-hover" data-toggle="table" data-search="true" data-pagination="true" data-page-size="25" data-show-columns="true" data-show-toggle="true" data-show-refresh="true" data-sortable="true">
     	<thead>
     		<tr>
-    			<th scope="col">Composer</th>
-    			<th scope="col">Title</th>
-    			<th scope="col">Genre</th>
-    			<th scope="col">Voicing</th>
+    			<th scope="col" data-field="composer" data-sortable="true">Composer</th>
+    			<th scope="col" data-field="title" data-sortable="true">Title</th>
+    			<th scope="col" data-field="genre" data-sortable="true">Genre</th>
+    			<th scope="col" data-field="voicing" data-sortable="true">Voicing</th>
     		</tr>
     	</thead>
     	<tbody class="table-group-divider">
