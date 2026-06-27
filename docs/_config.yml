@@ -12,3 +12,8 @@ autoprefixer:
   browsers:
     - last 4 versions
     - Safari > 2
+
+# collections settings
+collections:
+  composers:
+    output: true
