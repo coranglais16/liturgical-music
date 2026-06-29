@@ -4,7 +4,10 @@ title: Home
 This is a repository of good liturgical music, made available for anybody who wants it.
 
 <div class="table-responsive">
-    <table class="table table-sm table-hover" data-toggle="table" data-search="true" data-pagination="true" data-page-size="25" data-show-columns="true" data-show-toggle="true" data-show-refresh="true" data-sortable="true">
+    <table class="table table-sm table-hover" 
+          data-toggle="table" 
+          data-search="true" 
+          data-sortable="true">
     	<thead>
     		<tr>
     			<th scope="col" data-field="composer" data-sortable="true">Composer</th>
