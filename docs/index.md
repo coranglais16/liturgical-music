@@ -3,6 +3,8 @@ title: Home
 ---
 This is a repository of good liturgical music, made available for anybody who wants it.
 
+There are currently {{ site.static_files | size }} motets in the repository.
+
 <div class="table-responsive">
     <table class="table table-sm table-hover" 
           data-toggle="table" 
