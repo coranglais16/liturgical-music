@@ -19,3 +19,6 @@ echo "  title: $2" >> $yaml_file
 echo "  composer: $3" >> $yaml_file
 echo "  genre: $4" >> $yaml_file
 echo "  voicing: $5" >> $yaml_file
+
+# now sort the database file by composer's last name
+yq 'sort_by(.composer | split(" ") | .[-1])' $yaml_file
