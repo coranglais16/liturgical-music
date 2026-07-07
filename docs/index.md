@@ -14,6 +14,7 @@ There are currently {{ site.static_files | size }} motets in the repository.
     	<thead>
     		<tr>
     			<th scope="col" data-field="composer" data-sortable="true">Composer</th>
+    			<th data-field="sort" data-visible="false">Sort</th>
     			<th scope="col" data-field="title" data-sortable="true">Title</th>
     			<th scope="col" data-field="genre" data-sortable="true">Genre</th>
     			<th scope="col" data-field="voicing" data-sortable="true">Voicing</th>
@@ -23,6 +24,7 @@ There are currently {{ site.static_files | size }} motets in the repository.
         	{% for id in site.data.database %}
                 {% include table-rows.html 
                     composer=id.composer 
+                    sort=id.sort 
                     title=id.title 
                     url=id.path 
                     genre=id.genre 

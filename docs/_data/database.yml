@@ -3,423 +3,508 @@
   composer: Johann Sebastian Bach
   genre: Hymn stanza
   voicing: SATB
+  sort: Bach
 - path: /assets/pdf/Bach Christ Jesus Lay in Death's Strong Bands.pdf
   title: Christ Jesus Lay in Death's Strong Bands
   composer: Johann Sebastian Bach
   genre: Hymn stanza
   voicing: SATB
+  sort: Bach
 - path: /assets/pdf/Bach Lord God, to Thee We Give All Praise.pdf
   title: Lord God, to Thee We Give All Praise
   composer: Johann Sebastian Bach
   genre: Hymn stanza
   voicing: SATB
+  sort: Bach
 - path: /assets/pdf/Bach Ertodt uns durch dein Güte, BWV 22.pdf
   title: Ertodt uns durch dein Güte, BWV 22
   composer: Johann Sebastian Bach
   genre: Chorus
   voicing: SATB
+  sort: Bach
 - path: /assets/pdf/Bach Jesu Joy of Man's Desiring.pdf
   title: Jesu Joy of Man's Desiring
   composer: Johann Sebastian Bach
   genre: Chorus
   voicing: SATB
+  sort: Bach
 - path: /assets/pdf/Bach Salvation Unto Us Has Come.pdf
   title: Salvation Unto Us Has Come
   composer: Johann Sebastian Bach
   genre: Hymn stanza
   voicing: SATB
+  sort: Bach
 - path: /assets/pdf/Bach To Jordan Came stanza 5.pdf
   title: To Jordan Came the Christ, Our Lord (stanza 5)
   composer: Johann Sebastian Bach
   genre: Hymn stanza
   voicing: SATB
+  sort: Bach
 - path: /assets/pdf/JSB Nun freut euch LSB.pdf
   title: Dear Christians, One and All, Rejoice (sts. 5–6)
   composer: Johann Sebastian Bach
   genre: Hymn stanza
   voicing: Unison
+  sort: Bach
 - path: /assets/pdf/Barcrofte O almighty God.pdf
   title: O almighty God
   composer: George Barcrofte
   genre: Motet
   voicing: SATB
+  sort: Barcrofte
 - path: /assets/pdf/Calvisius O Lamm Gottes.pdf
   title: O Lamm Gottes, unschuldig
   composer: Sethus Calvisius
   genre: Hymn
   voicing: SATB
+  sort: Calvisius
 - path: /assets/pdf/Calvisius Victimae paschali.pdf
   title: Victimae paschali laudes
   composer: Sethus Calvisius
   genre: Sequence
   voicing: SATB
+  sort: Calvisius
 - path: /assets/pdf/Crüger Aus tiefer Not.pdf
   title: Aus tiefer Not schrei ich zu dir
   composer: Johann Crüger
   genre: Hymn
   voicing: SATB
+  sort: Crüger
 - path: /assets/pdf/Crüger Awake, My Heart, Be Singing.pdf
   title: Awake, My Heart, Be Singing
   composer: Johann Crüger
   genre: Hymn
   voicing: SATB
+  sort: Crüger
 - path: /assets/pdf/Eccard Aus Lieb läßt Gott der Christenheit.pdf
   title: Aus Lieb läßt Gott der Christenheit
   composer: Johannes Eccard
   genre: Hymn
   voicing: SSATB
+  sort: Eccard
 - path: /assets/pdf/Eccard Der große Tag des Herren.pdf
   title: Der große Tag des Herren
   composer: Johannes Eccard
   genre: Hymn
   voicing: SAATB
+  sort: Eccard
 - path: /assets/pdf/Eccard Erbarm dich mein a5.pdf
   title: Erbarm dich mein, o Herre Gott
   composer: Johannes Eccard
   genre: Hymn
   voicing: SATTB
+  sort: Eccard
 - path: /assets/pdf/Eccard Freut euch ihr lieben Christen.pdf
   title: Freut euch ihr lieben Christen
   composer: Johannes Eccard
   genre: Hymn
   voicing: SATB
+  sort: Eccard
 - path: /assets/pdf/Eccard Through Jesus' Blood and Merit.pdf
   title: Through Jesus' Blood and Merit (stanza 2)
   composer: Johannes Eccard
   genre: Hymn stanza
   voicing: SSATB
+  sort: Eccard
 - path: /assets/pdf/Eccard Lob Gott getrost mit singen.pdf
   title: Lob Gott getrost mit singen
   composer: Johannes Eccard
   genre: Hymn
   voicing: SSATB
+  sort: Eccard
 - path: /assets/pdf/Eccard Maria wallt zum Heiligtum.pdf
   title: Maria wallt zum Heiligtum
   composer: Johannes Eccard
   genre: Motet
   voicing: SSATBarB
+  sort: Eccard
 - path: /assets/pdf/Eccard Mein schönste Zier.pdf
   title: Mein schönste Zier und Kleinod bist
   composer: Johannes Eccard
   genre: Hymn
   voicing: SSATB
+  sort: Eccard
 - path: /assets/pdf/Eccard Was der alten Väter Schar.pdf
   title: Was der alten Väter Schar
   composer: Johannes Eccard
   genre: Hymn stanza
   voicing: SSATB
+  sort: Eccard
 - path: /assets/pdf/Farnaby In trouble and in thrall.pdf
   title: In Trouble and In Thrall
   composer: Giles Farnaby
   genre: Psalm
   voicing: SATB
+  sort: Farnaby
 - path: /assets/pdf/Gesius To Jordan Came stanza 2.pdf
   title: To Jordan Came the Christ, Our Lord (stanza 2)
   composer: Bartholomäus Gesius
   genre: Hymn stanza
   voicing: SATB
+  sort: Gesius
 - path: /assets/pdf/Gesius In Cana in Galilaea English.pdf
   title: In Cana in Galilaea
   composer: Bartholomäus Gesius
   genre: Hymn
   voicing: SATB
+  sort: Gesius
 - path: /assets/pdf/Gesius Mit Fried und Freud (TLH).pdf
   title: In Peace and Joy I Now Depart (stanza 3, TLH)
   composer: Bartholomäus Gesius
   genre: Hymn stanza
   voicing: SATB
+  sort: Gesius
 - path: /assets/pdf/Gesius O little flock.pdf
   title: O Little Flock, Fear Not the Foe
   composer: Bartholomäus Gesius
   genre: Hymn
   voicing: SATB
+  sort: Gesius
 - path: /assets/pdf/Gesius Wachet auf (stanza 2).pdf
   title: Wake, Awake, for Night is Flying (stanza 2)
   composer: Bartholomäus Gesius
   genre: Hymn stanza
   voicing: SATB
+  sort: Gesius
 - path: /assets/pdf/Gesius From Heaven Above.pdf
   title: From Heaven Above to Earth I Come (sts. 7 & 14)
   composer: Bartholomäus Gesius
   genre: Hymn stanza
   voicing: SSATB
+  sort: Gesius
 - path: /assets/pdf/Gumpelzhaimer From Heaven Above.pdf
   title: From Heaven Above to Earth I Come (sts. 5 & 11)
   composer: Adam Gumpelzhaimer
   genre: Hymn stanza
   voicing: SATB
+  sort: Gumpelzhaimer
 - path: /assets/pdf/Hammerschmidt Das Wort ward Fleisch.pdf
   title: Das Wort ward Fleisch
   composer: Andreas Hammerschmidt
   genre: Motet
   voicing: SSATTB
+  sort: Hammerschmidt
 - path: /assets/pdf/Handl Adoramus te Jesu Christe a6.pdf
   title: Adoramus te, Jesu Christe
   composer: Jacob Handl
   genre: Motet
   voicing: SSATTB
+  sort: Handl
 - path: /assets/pdf/Handl O Herre Gott in meiner Not.pdf
   title: O Herre Gott, in meiner Not
   composer: Jacob Handl
   genre: Motet
   voicing: SATB
+  sort: Handl
 - path: /assets/pdf/Hassler Canite tuba a5.pdf
   title: Canite tuba in Sion
   composer: Hans Leo Hassler
   genre: Motet
   voicing: SSATB
+  sort: Hassler
 - path: /assets/pdf/Hassler Verbum caro factum est a6.pdf
   title: Verbum caro factum est
   composer: Hans Leo Hassler
   genre: Motet
   voicing: SSATTB
+  sort: Hassler
 - path: /assets/pdf/Hassler Veni sancte Spiritus a5.pdf
   title: Veni sancte Spiritus
   composer: Hans Leo Hassler
   genre: Motet
   voicing: SATTB
+  sort: Hassler
 - path: /assets/pdf/Heintz Christ unser Herr.pdf
   title: Christ, unser Herr, zum Jordan kam
   composer: Wolff Heintz
   genre: Hymn stanza
   voicing: SATB
+  sort: Heintz
 - path: /assets/pdf/Heintz Nun bitten wir.pdf
   title: Nun bitten wir
   composer: Wolff Heintz
   genre: Hymn
   voicing: SATB
+  sort: Heintz
 - path: /assets/pdf/Hemmel O Herre Gott begnade mich.pdf
   title: O Herre Gott, begnade mich
   composer: Sigmund Hemmel
   genre: Psalm
   voicing: SATB
+  sort: Hemmel
 - path: /assets/pdf/Waldis Psalm 127.pdf
   title: If God Make Not the House to Stand
   composer: Johannes Heugel
   genre: Psalm paraphrase
   voicing: SATB
+  sort: Heugel
 - path: /assets/pdf/Lassus Tibi soli peccavi.pdf
   title: Tibi soli peccavi
   composer: Orlando de Lassus
   genre: Motet
   voicing: SATB
+  sort: Lassus
 - path: /assets/pdf/Luther Non moriar sed vivam.pdf
   title: Non moriar sed vivam
   composer: Martin Luther
   genre: Motet
   voicing: SATB
+  sort: Luther
 - path: /assets/pdf/Mozart Ave verum Corpus.pdf
   title: Ave verum corpus
   composer: Wolfgang Amadeus Mozart
   genre: Motet
   voicing: SATB
+  sort: Mozart
 - path: /assets/pdf/Palestrina Adoramus te.pdf
   title: Adoramus te, Christe
   composer: Giovanni Pierluigi da Palestrina
   genre: Motet
   voicing: SATB
+  sort: Palestrina
 - path: /assets/pdf/Palestrina O salutaris hostia.pdf
   title: O salutaris hostia
   composer: Giovanni Pierluigi da Palestrina
   genre: Motet
   voicing: SATB
+  sort: Palestrina
 - path: /assets/pdf/Pearsall Ave verum.pdf
   title: Ave verum corpus
   composer: Robert Lucas Pearsall
   genre: Motet
   voicing: SATB
+  sort: Pearsall
 - path: /assets/pdf/Praetorius Aeterno gratias Patri.pdf
   title: Aeterno gratias Patri
   composer: Michael Praetorius
   genre: Motet
   voicing: SATTB
+  sort: Praetorius
 - path: /assets/pdf/Praetorius Kyrie.pdf
   title: Kyrie
   composer: Michael Praetorius
   genre: Mass Ordinary
   voicing: SATB
+  sort: Praetorius
 - path: /assets/pdf/Praetorius Der Morgenstern ist aufgedrungen.pdf
   title: Der Morgenstern ist aufgedrungen
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
+  sort: Praetorius
 - path: /assets/pdf/Pöpel Virga Jesse.pdf
   title: Virga Jesse floruit
   composer: Thomas Pöpel
   genre: Motet
   voicing: SATB
+  sort: Pöpel
 - path: /assets/pdf/Schein Spiritus Sancti gratia
   title: Spiritus Sancti gratia
   composer: Johann Hermann Schein
   genre: Hymn
   voicing: SATB
+  sort: Schein
 - path: /assets/pdf/Schein When In the Hour of Deepest Need.pdf
   title: When In the Hour of Deepest Need
   composer: Johann Hermann Schein
   genre: Hymn
   voicing: SATB
+  sort: Schein
 - path: /assets/pdf/Schütz Nunc dimittis SWV 433.pdf
   title: Nunc dimittis, SWV 433
   composer: Heinrich Schütz
   genre: Motet
   voicing: SSATTB
+  sort: Schütz
 - path: /assets/pdf/Schütz Selig sind die Toten.pdf
   title: Selig sind die Toten
   composer: Heinrich Schütz
   genre: Motet
   voicing: SSATTB
+  sort: Schütz
 - path: /assets/pdf/Schutz Becker Psalm 13.pdf
   title: Becker Psalm 13 (English)
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 45.pdf
   title: Becker Psalm 45
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 85.pdf
   title: Becker Psalm 85
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 96.pdf
   title: Becker Psalm 96
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 119.pdf
   title: Becker Psalm 119:1–16 (English)
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schutz Becker Psalm 120.pdf
   title: Becker Psalm 120 (English)
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 127.pdf
   title: Becker Psalm 127 (English)
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 134.pdf
   title: Becker Psalm 134
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 144.pdf
   title: Becker Psalm 144 (English)
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz John Passion ESV.pdf
   title: John Passion turba choruses (ESV)
   composer: Heinrich Schütz
   genre: Passion
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 43.pdf
   title: Becker Psalm 43
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 44.pdf
   title: Becker Psalm 44
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Senfl Non moriar sed vivam.pdf
   title: Non moriar sed vivam
   composer: Ludwig Senfl
   genre: Motet
   voicing: SATB
+  sort: Senfl
 - path: /assets/pdf/Sheppard Rejoice in the Lord always.pdf
   title: Rejoice in the Lord always
   composer: John Sheppard
   genre: Motet
   voicing: SATB
+  sort: Sheppard
 - path: /assets/pdf/Stobäus Such wer da will.pdf
   title: Seek Where You May (stanza 3)
   composer: Johann Stobäus
   genre: Hymn stanza
   voicing: SSATB
+  sort: Stobäus
 - path: /assets/pdf/Stoltzer Savior of the Nations Come.pdf
   title: Savior of the Nations Come (stanza 4)
   composer: Thomas Stoltzer
   genre: Hymn stanza
   voicing: SATB
+  sort: Stoltzer
 - path: /assets/pdf/Tallis O Lord, in Thee is all my trust.pdf
   title: O Lord, in Thee is all my trust
   composer: Thomas Tallis
   genre: Hymn
   voicing: SATB
+  sort: Tallis
 - path: /assets/pdf/Tallis Third mode melody.pdf
   title: I Heard the Voice of Jesus Say
   composer: Thomas Tallis
   genre: Hymn
   voicing: SATB
+  sort: Tallis
 - path: /assets/pdf/Tomkins Have Mercy Upon Me.pdf
   title: Have Mercy Upon Me, O God
   composer: Thomas Tomkins
   genre: Motet
   voicing: SATTB
+  sort: Tomkins
 - path: /assets/pdf/Tomkins Praise the Lord.pdf
   title: Praise the Lord, O My Soul
   composer: Thomas Tomkins
   genre: Motet
   voicing: SATB
+  sort: Tomkins
 - path: /assets/pdf/Vulpius Caelos ascendit hodie Gen Himmel.pdf
   title: Caelos ascendit hodie/Gen Himmel aufgefahren ist (English)
   composer: Melchior Vulpius
   genre: Hymn
   voicing: SATB
+  sort: Vulpius
 - path: /assets/pdf/Vulpius Das neugeborne Kindelein.pdf
   title: Das neugeborne Kindelein (English)
   composer: Melchior Vulpius
   genre: Hymn
   voicing: SATB
+  sort: Vulpius
 - path: /assets/pdf/Vulpius Let the Church New Anthems Raise.pdf
   title: Let the Church New Anthems Raise
   composer: Melchior Vulpius
   genre: Hymn
   voicing: SATB
+  sort: Vulpius
 - path: /assets/pdf/Walter Allein auf Gottes Wort will ich.pdf
   title: Allein auf Gottes Wort will ich
   composer: Johann Walter
   genre: Motet
   voicing: SATB
+  sort: Walter
 - path: /assets/pdf/Walter Ein feste Burg.pdf
   title: A Mighty Fortress is Our God (stanza 2)
   composer: Johann Walter
   genre: Hymn stanza
   voicing: SATB
+  sort: Walter
 - path: /assets/pdf/Walter Herr Christ der einig Gottes Sohn.pdf
   title: The Only Son From Heaven (stanza 3)
   composer: Johann Walter
   genre: Hymn stanza
   voicing: SATB
+  sort: Walter
 - path: /assets/pdf/Walter Nun bitten wir a5.pdf
   title: Nun bitten wir den heiligen Geist
   composer: Johann Walter
   genre: Motet
   voicing: SATTB
+  sort: Walter
 - path: /assets/pdf/Walter Nun freut euch English a3.pdf
   title: Dear Christians, One and All, Rejoice (stanza 5)
   composer: Johann Walter
   genre: Hymn stanza
   voicing: SAB
+  sort: Walter
 - path: /assets/pdf/Walter The Lord My Trusty Shepherd Is.pdf
   title: The Lord My Trusty Shepherd Is (stanza 3)
   composer: Johann Walter
   genre: Hymn stanza
   voicing: SATB
+  sort: Walter
 - path: /assets/pdf/Weinmann Vater unser.pdf
   title: Our Father, Who In Heaven Above (sts. 4 & 8)
   composer: Johannes Weinmann
   genre: Hymn stanza
   voicing: STTB
+  sort: Weinmann
 - path: /assets/pdf/RVW Sussex carol.pdf
   title: Sussex Carol
   composer: Ralph Vaughan Williams
   genre: Carol
   voicing: SATB
+  sort: Williams

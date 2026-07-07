@@ -5,10 +5,11 @@ title="$2"
 composer="$3"
 genre="$4"
 voicing="$5"
+sort="$6"
 path="$1"
 
 if [ -z "$1" ]; then
-  echo "Usage: $0 TITLE COMPOSER GENRE VOICING PATH"
+  echo "Usage: $0 TITLE COMPOSER GENRE VOICING SORT PATH"
   exit 1
 fi
 
@@ -20,5 +21,5 @@ echo "  composer: $3" >> $yaml_file
 echo "  genre: $4" >> $yaml_file
 echo "  voicing: $5" >> $yaml_file
 
-# now sort the database file by composer's last name
-yq 'sort_by(.composer | split(" ") | .[-1])' $yaml_file
+# now sort the database file by composer's last name, then title
+yq -i 'sort_by(.sort, .title)' database.yml
