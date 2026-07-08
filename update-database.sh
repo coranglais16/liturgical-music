@@ -22,4 +22,4 @@ echo "  genre: $4" >> $yaml_file
 echo "  voicing: $5" >> $yaml_file
 
 # now sort the database file by composer's last name, then title
-yq -i 'sort_by(.sort, .title)' database.yml
+yq -i 'sort_by(.sort, .title)' $yaml_file
