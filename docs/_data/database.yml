@@ -10,11 +10,11 @@
   genre: Hymn stanza
   voicing: SATB
   sort: Bach
-- path: /assets/pdf/Bach Lord God, to Thee We Give All Praise.pdf
-  title: Lord God, to Thee We Give All Praise
+- path: /assets/pdf/Bach Nun freut euch LSB.pdf
+  title: Dear Christians, One and All, Rejoice (sts. 5–6)
   composer: Johann Sebastian Bach
   genre: Hymn stanza
-  voicing: SATB
+  voicing: Unison
   sort: Bach
 - path: /assets/pdf/Bach Ertodt uns durch dein Güte, BWV 22.pdf
   title: Ertodt uns durch dein Güte, BWV 22
@@ -26,6 +26,12 @@
   title: Jesu Joy of Man's Desiring
   composer: Johann Sebastian Bach
   genre: Chorus
+  voicing: SATB
+  sort: Bach
+- path: /assets/pdf/Bach Lord God, to Thee We Give All Praise.pdf
+  title: Lord God, to Thee We Give All Praise
+  composer: Johann Sebastian Bach
+  genre: Hymn stanza
   voicing: SATB
   sort: Bach
 - path: /assets/pdf/Bach Salvation Unto Us Has Come.pdf
@@ -40,11 +46,11 @@
   genre: Hymn stanza
   voicing: SATB
   sort: Bach
-- path: /assets/pdf/Bach Nun freut euch LSB.pdf
-  title: Dear Christians, One and All, Rejoice (sts. 5–6)
+- path: /assets/pdf/Bach To Jordan Came stanza 4.pdf
+  title: To Jordan Came the Christ, our Lord (stanza 4)
   composer: Johann Sebastian Bach
   genre: Hymn stanza
-  voicing: Unison
+  voicing: SATB
   sort: Bach
 - path: /assets/pdf/Barcrofte O almighty God.pdf
   title: O almighty God
@@ -100,12 +106,6 @@
   genre: Hymn
   voicing: SATB
   sort: Eccard
-- path: /assets/pdf/Eccard Through Jesus' Blood and Merit.pdf
-  title: Through Jesus' Blood and Merit (stanza 2)
-  composer: Johannes Eccard
-  genre: Hymn stanza
-  voicing: SSATB
-  sort: Eccard
 - path: /assets/pdf/Eccard Lob Gott getrost mit singen.pdf
   title: Lob Gott getrost mit singen
   composer: Johannes Eccard
@@ -124,10 +124,22 @@
   genre: Hymn
   voicing: SSATB
   sort: Eccard
+- path: /assets/pdf/Eccard Through Jesus' Blood and Merit.pdf
+  title: Through Jesus' Blood and Merit (stanza 2)
+  composer: Johannes Eccard
+  genre: Hymn stanza
+  voicing: SSATB
+  sort: Eccard
 - path: /assets/pdf/Eccard Was der alten Väter Schar.pdf
   title: Was der alten Väter Schar
   composer: Johannes Eccard
   genre: Hymn stanza
+  voicing: SSATB
+  sort: Eccard
+- path: /assets/pdf/Eccard Weil unser Trost.pdf
+  title: Weil unser Trost, der Herre Christ
+  composer: Johannes Eccard
+  genre: Motet
   voicing: SSATB
   sort: Eccard
 - path: /assets/pdf/Farnaby In trouble and in thrall.pdf
@@ -136,11 +148,11 @@
   genre: Psalm
   voicing: SATB
   sort: Farnaby
-- path: /assets/pdf/Gesius To Jordan Came stanza 2.pdf
-  title: To Jordan Came the Christ, Our Lord (stanza 2)
+- path: /assets/pdf/Gesius From Heaven Above.pdf
+  title: From Heaven Above to Earth I Come (sts. 7 & 14)
   composer: Bartholomäus Gesius
   genre: Hymn stanza
-  voicing: SATB
+  voicing: SSATB
   sort: Gesius
 - path: /assets/pdf/Gesius In Cana in Galilaea English.pdf
   title: In Cana in Galilaea
@@ -160,17 +172,17 @@
   genre: Hymn
   voicing: SATB
   sort: Gesius
+- path: /assets/pdf/Gesius To Jordan Came stanza 2.pdf
+  title: To Jordan Came the Christ, Our Lord (stanza 2)
+  composer: Bartholomäus Gesius
+  genre: Hymn stanza
+  voicing: SATB
+  sort: Gesius
 - path: /assets/pdf/Gesius Wachet auf (stanza 2).pdf
   title: Wake, Awake, for Night is Flying (stanza 2)
   composer: Bartholomäus Gesius
   genre: Hymn stanza
   voicing: SATB
-  sort: Gesius
-- path: /assets/pdf/Gesius From Heaven Above.pdf
-  title: From Heaven Above to Earth I Come (sts. 7 & 14)
-  composer: Bartholomäus Gesius
-  genre: Hymn stanza
-  voicing: SSATB
   sort: Gesius
 - path: /assets/pdf/Gumpelzhaimer From Heaven Above.pdf
   title: From Heaven Above to Earth I Come (sts. 5 & 11)
@@ -202,17 +214,17 @@
   genre: Motet
   voicing: SSATB
   sort: Hassler
-- path: /assets/pdf/Hassler Verbum caro factum est a6.pdf
-  title: Verbum caro factum est
-  composer: Hans Leo Hassler
-  genre: Motet
-  voicing: SSATTB
-  sort: Hassler
 - path: /assets/pdf/Hassler Veni sancte Spiritus a5.pdf
   title: Veni sancte Spiritus
   composer: Hans Leo Hassler
   genre: Motet
   voicing: SATTB
+  sort: Hassler
+- path: /assets/pdf/Hassler Verbum caro factum est a6.pdf
+  title: Verbum caro factum est
+  composer: Hans Leo Hassler
+  genre: Motet
+  voicing: SSATTB
   sort: Hassler
 - path: /assets/pdf/Heintz Christ unser Herr.pdf
   title: Christ, unser Herr, zum Jordan kam
@@ -238,6 +250,12 @@
   genre: Psalm paraphrase
   voicing: SATB
   sort: Heugel
+- path: /assets/pdf/Knöfel Also hat Gott die Welt geliebt.pdf
+  title: Also hat Gott die Welt geliebt
+  composer: Johann Knöfel
+  genre: Motet
+  voicing: SSATB
+  sort: Knöfel
 - path: /assets/pdf/Lassus Tibi soli peccavi.pdf
   title: Tibi soli peccavi
   composer: Orlando de Lassus
@@ -280,16 +298,16 @@
   genre: Motet
   voicing: SATTB
   sort: Praetorius
-- path: /assets/pdf/Praetorius Kyrie.pdf
-  title: Kyrie
-  composer: Michael Praetorius
-  genre: Mass Ordinary
-  voicing: SATB
-  sort: Praetorius
 - path: /assets/pdf/Praetorius Der Morgenstern ist aufgedrungen.pdf
   title: Der Morgenstern ist aufgedrungen
   composer: Michael Praetorius
   genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: /assets/pdf/Praetorius Kyrie.pdf
+  title: Kyrie
+  composer: Michael Praetorius
+  genre: Mass Ordinary
   voicing: SATB
   sort: Praetorius
 - path: /assets/pdf/Pöpel Virga Jesse.pdf
@@ -310,38 +328,8 @@
   genre: Hymn
   voicing: SATB
   sort: Schein
-- path: /assets/pdf/Schütz Nunc dimittis SWV 433.pdf
-  title: Nunc dimittis, SWV 433
-  composer: Heinrich Schütz
-  genre: Motet
-  voicing: SSATTB
-  sort: Schütz
-- path: /assets/pdf/Schütz Selig sind die Toten.pdf
-  title: Selig sind die Toten
-  composer: Heinrich Schütz
-  genre: Motet
-  voicing: SSATTB
-  sort: Schütz
-- path: /assets/pdf/Schutz Becker Psalm 13.pdf
-  title: Becker Psalm 13 (English)
-  composer: Heinrich Schütz
-  genre: Psalm
-  voicing: SATB
-  sort: Schütz
-- path: /assets/pdf/Schütz Becker Psalm 45.pdf
-  title: Becker Psalm 45
-  composer: Heinrich Schütz
-  genre: Psalm
-  voicing: SATB
-  sort: Schütz
-- path: /assets/pdf/Schütz Becker Psalm 85.pdf
-  title: Becker Psalm 85
-  composer: Heinrich Schütz
-  genre: Psalm
-  voicing: SATB
-  sort: Schütz
-- path: /assets/pdf/Schütz Becker Psalm 96.pdf
-  title: Becker Psalm 96
+- path: /assets/pdf/Schütz Becker Psalm 100.pdf
+  title: Becker Psalm 100
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
@@ -364,6 +352,12 @@
   genre: Psalm
   voicing: SATB
   sort: Schütz
+- path: /assets/pdf/Schutz Becker Psalm 13.pdf
+  title: Becker Psalm 13 (English)
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+  sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 134.pdf
   title: Becker Psalm 134
   composer: Heinrich Schütz
@@ -374,12 +368,6 @@
   title: Becker Psalm 144 (English)
   composer: Heinrich Schütz
   genre: Psalm
-  voicing: SATB
-  sort: Schütz
-- path: /assets/pdf/Schütz John Passion ESV.pdf
-  title: John Passion turba choruses (ESV)
-  composer: Heinrich Schütz
-  genre: Passion
   voicing: SATB
   sort: Schütz
 - path: /assets/pdf/Schütz Becker Psalm 43.pdf
@@ -393,6 +381,42 @@
   composer: Heinrich Schütz
   genre: Psalm
   voicing: SATB
+  sort: Schütz
+- path: /assets/pdf/Schütz Becker Psalm 45.pdf
+  title: Becker Psalm 45
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+  sort: Schütz
+- path: /assets/pdf/Schütz Becker Psalm 85.pdf
+  title: Becker Psalm 85
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+  sort: Schütz
+- path: /assets/pdf/Schütz Becker Psalm 96.pdf
+  title: Becker Psalm 96
+  composer: Heinrich Schütz
+  genre: Psalm
+  voicing: SATB
+  sort: Schütz
+- path: /assets/pdf/Schütz John Passion ESV.pdf
+  title: John Passion turba choruses (ESV)
+  composer: Heinrich Schütz
+  genre: Passion
+  voicing: SATB
+  sort: Schütz
+- path: /assets/pdf/Schütz Nunc dimittis SWV 433.pdf
+  title: Nunc dimittis, SWV 433
+  composer: Heinrich Schütz
+  genre: Motet
+  voicing: SSATTB
+  sort: Schütz
+- path: /assets/pdf/Schütz Selig sind die Toten.pdf
+  title: Selig sind die Toten
+  composer: Heinrich Schütz
+  genre: Motet
+  voicing: SSATTB
   sort: Schütz
 - path: /assets/pdf/Senfl Non moriar sed vivam.pdf
   title: Non moriar sed vivam
@@ -418,14 +442,14 @@
   genre: Hymn stanza
   voicing: SATB
   sort: Stoltzer
-- path: /assets/pdf/Tallis O Lord, in Thee is all my trust.pdf
-  title: O Lord, in Thee is all my trust
+- path: /assets/pdf/Tallis Third mode melody.pdf
+  title: I Heard the Voice of Jesus Say
   composer: Thomas Tallis
   genre: Hymn
   voicing: SATB
   sort: Tallis
-- path: /assets/pdf/Tallis Third mode melody.pdf
-  title: I Heard the Voice of Jesus Say
+- path: /assets/pdf/Tallis O Lord, in Thee is all my trust.pdf
+  title: O Lord, in Thee is all my trust
   composer: Thomas Tallis
   genre: Hymn
   voicing: SATB
@@ -442,6 +466,12 @@
   genre: Motet
   voicing: SATB
   sort: Tomkins
+- path: /assets/pdf/RVW Sussex carol.pdf
+  title: Sussex Carol
+  composer: Ralph Vaughan Williams
+  genre: Carol
+  voicing: SATB
+  sort: Vaughan Williams
 - path: /assets/pdf/Vulpius Caelos ascendit hodie Gen Himmel.pdf
   title: Caelos ascendit hodie/Gen Himmel aufgefahren ist (English)
   composer: Melchior Vulpius
@@ -460,14 +490,32 @@
   genre: Hymn
   voicing: SATB
   sort: Vulpius
+- path: /assets/pdf/Walter Ein feste Burg.pdf
+  title: A Mighty Fortress is Our God (stanza 2)
+  composer: Johann Walter
+  genre: Hymn stanza
+  voicing: SATB
+  sort: Walter
 - path: /assets/pdf/Walter Allein auf Gottes Wort will ich.pdf
   title: Allein auf Gottes Wort will ich
   composer: Johann Walter
   genre: Motet
   voicing: SATB
   sort: Walter
-- path: /assets/pdf/Walter Ein feste Burg.pdf
-  title: A Mighty Fortress is Our God (stanza 2)
+- path: /assets/pdf/Walter Nun freut euch English a3.pdf
+  title: Dear Christians, One and All, Rejoice (stanza 5)
+  composer: Johann Walter
+  genre: Hymn stanza
+  voicing: SAB
+  sort: Walter
+- path: /assets/pdf/Walter Nun bitten wir a5.pdf
+  title: Nun bitten wir den heiligen Geist
+  composer: Johann Walter
+  genre: Motet
+  voicing: SATTB
+  sort: Walter
+- path: /assets/pdf/Walter The Lord My Trusty Shepherd Is.pdf
+  title: The Lord My Trusty Shepherd Is (stanza 3)
   composer: Johann Walter
   genre: Hymn stanza
   voicing: SATB
@@ -478,22 +526,10 @@
   genre: Hymn stanza
   voicing: SATB
   sort: Walter
-- path: /assets/pdf/Walter Nun bitten wir a5.pdf
-  title: Nun bitten wir den heiligen Geist
+- path: /assets/pdf/Walter Wo Gott der Herr nicht bei uns hält.pdf
+  title: Wo Gott der Herr nicht bei uns hält
   composer: Johann Walter
   genre: Motet
-  voicing: SATTB
-  sort: Walter
-- path: /assets/pdf/Walter Nun freut euch English a3.pdf
-  title: Dear Christians, One and All, Rejoice (stanza 5)
-  composer: Johann Walter
-  genre: Hymn stanza
-  voicing: SAB
-  sort: Walter
-- path: /assets/pdf/Walter The Lord My Trusty Shepherd Is.pdf
-  title: The Lord My Trusty Shepherd Is (stanza 3)
-  composer: Johann Walter
-  genre: Hymn stanza
   voicing: SATB
   sort: Walter
 - path: /assets/pdf/Weinmann Vater unser.pdf
@@ -502,9 +538,3 @@
   genre: Hymn stanza
   voicing: STTB
   sort: Weinmann
-- path: /assets/pdf/RVW Sussex carol.pdf
-  title: Sussex Carol
-  composer: Ralph Vaughan Williams
-  genre: Carol
-  voicing: SATB
-  sort: Vaughan Williams
