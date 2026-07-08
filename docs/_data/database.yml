@@ -298,6 +298,24 @@
   genre: Motet
   voicing: SATTB
   sort: Praetorius
+- path: /assets/pdf/Praetorius Behold By What a Wondrous Art.pdf
+  title: Behold By What a Wondrous Art
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: /assets/pdf/Praetorius Bleib bei uns, Herr.pdf
+  title: Bleib bei uns, Herr
+  composer: Michael Praetorius
+  genre: Motet
+  voicing: SATB
+  sort: Praetorius
+- path: /assets/pdf/Praetorius Creator of the Stars of Night.pdf
+  title: Creator of the Stars of Night
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
 - path: /assets/pdf/Praetorius Der Morgenstern ist aufgedrungen.pdf
   title: Der Morgenstern ist aufgedrungen
   composer: Michael Praetorius
