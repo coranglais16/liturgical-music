@@ -5,7 +5,7 @@
 # then it sorts the resulting file by the sort key and the title
 
 # define the variables
-yaml_file=database.yml
+yaml_file=docs/_data/database.yml
 path="$1"
 title="$2"
 composer="$3"

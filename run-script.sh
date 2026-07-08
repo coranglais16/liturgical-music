@@ -7,4 +7,4 @@
 
 while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
     ./update-database.sh "$col1" "$col2" "$col3" "$col4" "$col5" "$col6"
-done < data.tsv
+done < data.tsv && echo '' # add \n at the end of the output to allow the last line to be read
