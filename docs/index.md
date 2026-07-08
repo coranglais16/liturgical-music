@@ -13,7 +13,7 @@ There are currently {{ site.static_files | size }} motets in the repository.
           data-sortable="true">
     	<thead>
     		<tr>
-    			<th scope="col" data-field="composer" data-sortable="true">Composer</th>
+    			<th scope="col" data-field="composer" data-sortable="true" data-sort-name="sort">Composer</th>
     			<th data-field="sort" data-visible="false">Sort</th>
     			<th scope="col" data-field="title" data-sortable="true">Title</th>
     			<th scope="col" data-field="genre" data-sortable="true">Genre</th>
