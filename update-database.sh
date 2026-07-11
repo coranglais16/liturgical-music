@@ -30,3 +30,6 @@ echo "  sort: $6" >> $yaml_file
 
 # sort the database file by composer's last name, then title
 yq -i 'sort_by(.sort, .title)' $yaml_file
+
+# update the build date
+echo "last-commit: $(git log -1 --format=%cs)" > _data/build.yml
