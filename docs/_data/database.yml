@@ -310,6 +310,12 @@
   genre: Motet
   voicing: SATB
   sort: Praetorius
+- path: /assets/pdf/Praetorius Christus, der uns selig macht.pdf
+  title: Christus, der uns selig macht
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SSATTB
+  sort: Praetorius
 - path: /assets/pdf/Praetorius Creator of the Stars of Night.pdf
   title: Creator of the Stars of Night
   composer: Michael Praetorius
@@ -318,6 +324,18 @@
   sort: Praetorius
 - path: /assets/pdf/Praetorius Der Morgenstern ist aufgedrungen.pdf
   title: Der Morgenstern ist aufgedrungen
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: /assets/pdf/Praetorius Der du bist drei in Einigkeit.pdf
+  title: Der du bist drei in Einigkeit
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: /assets/pdf/Praetorius Der heilig Geist vom Himmel kam.pdf
+  title: Der heilig Geist vom Himmel kam
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
