@@ -1,7 +1,1 @@
-# this file stores the date of the repo's last Git commit
-# it is accessed on index.md via {{ site.data.build.last-commit | date: "%B %-d, %Y" }}
-# to generate automatically, run:
-#		echo "last-commit: $(git log -1 --format=%cs)" > _data/build.yml
-# in the build pipeline
-
-last-commit: 2026-07-10
+last-commit: 2026-07-11

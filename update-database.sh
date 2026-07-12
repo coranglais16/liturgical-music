@@ -1,35 +1,48 @@
 #!/usr/bin/env bash
 
-# this script takes six columns of input processed by run-script.sh
-# and builds a YAML record out of each set of six columns.
-# then it sorts the resulting file by the sort key and the title
+# This script reads from a tab-delimited file passed as $1.
+# The file must be formatted with information in six columns:
+### filepath, title, composer, genre, voicing, sort key
+# Then it builds a YAML record out of each set of six columns and adds it to docs/_data/database.yml.
+# Then it sorts the database by the sort key and the title.
+# Finally it updates the build date for the website.
 
-# define the variables
-yaml_file=docs/_data/database.yml
-path="$1"
-title="$2"
-composer="$3"
-genre="$4"
-voicing="$5"
-sort="$6"
+# Usage: ./update-database.sh FILENAME.tsv
 
-# if there's no data passed to the script, then fail
-if [ -z "$1" ]; then
-  echo "Usage: $0 PATH TITLE COMPOSER GENRE VOICING SORT"
+# if there's no file passed to the script, then fail
+if [[ -z "$1" ]]; then
+  echo "Usage: ./update-database.sh FILENAME.tsv"
   exit 1
 fi
 
-# build the YAML record
-echo "-" >> $yaml_file
-echo "  path: $1" >> $yaml_file
-echo "  title: $2" >> $yaml_file
-echo "  composer: $3" >> $yaml_file
-echo "  genre: $4" >> $yaml_file
-echo "  voicing: $5" >> $yaml_file
-echo "  sort: $6" >> $yaml_file
+yaml_file=docs/_data/database.yml
+input_file=$1
+
+if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then # file does not end in a newline, so add one
+	echo "" >> $input_file
+fi
+
+while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
+	# assign the variables
+	path="$col1"
+	title="$col2"
+	composer="$col3"
+	genre="$col4"
+	voicing="$col5"
+	sort="$col6"
+
+	# build the YAML record
+	echo "-" >> $yaml_file
+	echo "  path: $path" >> $yaml_file
+	echo "  title: $title" >> $yaml_file
+	echo "  composer: $composer" >> $yaml_file
+	echo "  genre: $genre" >> $yaml_file
+	echo "  voicing: $voicing" >> $yaml_file
+	echo "  sort: $sort" >> $yaml_file
+done < $input_file
 
 # sort the database file by composer's last name, then title
 yq -i 'sort_by(.sort, .title)' $yaml_file
 
 # update the build date
-echo "last-commit: $(git log -1 --format=%cs)" > _data/build.yml
+echo "last-commit: $(git log -1 --format=%cs)" > docs/_data/build.yml
