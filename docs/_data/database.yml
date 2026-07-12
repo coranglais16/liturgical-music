@@ -346,10 +346,58 @@
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+- path: assets/pdf/Praetorius Heut singt die liebe Christenheit.pdf
+  title: Heut singt die liebe Christenheit
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Ich ruf zu dir, Herr Jesu Christ.pdf
+  title: Ich ruf zu dir, Herr Jesu Christ (German and English)
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Jesus Christ, Our Blessed Savior.pdf
+  title: Jesus Christ, Our Blessed Savior
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Jesus Christus, unser Heiland, der den Tod.pdf
+  title: Jesus Christus, unser Heiland, der den Tod überwand
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
 - path: /assets/pdf/Praetorius Kyrie.pdf
   title: Kyrie
   composer: Michael Praetorius
   genre: Mass Ordinary
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Heut triumphieret Gottes Sohn.pdf
+  title: Lo, With This Morning's Dawning Ray
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Mein Seel erhebt den Herren mein.pdf
+  title: My Soul Doth Magnify My Lord
+  composer: Michael Praetorius
+  genre: Magnificat
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Psallite unigenito.pdf
+  title: Psallite unigenito
+  composer: Michael Praetorius
+  genre: Motet
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Mensch, willst du leben seliglich.pdf
+  title: Willt Thou, O Man, Live Happily
+  composer: Michael Praetorius
+  genre: Hymn
   voicing: SATB
   sort: Praetorius
 - path: /assets/pdf/Pöpel Virga Jesse.pdf
