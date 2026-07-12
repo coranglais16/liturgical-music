@@ -340,6 +340,12 @@
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+- path: /assets/pdf/Praetorius God Gave the Gospel That We May.pdf
+  title: God Gave the Gospel That We May
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
 - path: /assets/pdf/Praetorius Kyrie.pdf
   title: Kyrie
   composer: Michael Praetorius
