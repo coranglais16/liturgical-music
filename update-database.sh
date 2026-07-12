@@ -2,7 +2,7 @@
 
 # This script reads from a tab-delimited file passed as $1.
 # The file must be formatted with information in six columns:
-### filepath, title, composer, genre, voicing, sort key
+### filepath (beginning at assets/pdf/), title, composer, genre, voicing, sort key
 # Then it builds a YAML record out of each set of six columns and adds it to docs/_data/database.yml.
 # Then it sorts the database by the sort key and the title.
 # Finally it updates the build date for the website.
