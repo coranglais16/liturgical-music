@@ -154,6 +154,12 @@
   genre: Hymn stanza
   voicing: SSATB
   sort: Gesius
+- path: assets/pdf/Gesius Helft mir Gotts Güte preisen.pdf
+  title: Helft mir Gotts Güte preisen
+  composer: Bartholomäus Gesius
+  genre: Hymn
+  voicing: SATTB
+  sort: Gesius
 - path: /assets/pdf/Gesius In Cana in Galilaea English.pdf
   title: In Cana in Galilaea
   composer: Bartholomäus Gesius
@@ -172,6 +178,12 @@
   genre: Hymn
   voicing: SATB
   sort: Gesius
+- path: assets/pdf/Gesius Spiritus Sancti gratia.pdf
+  title: Spiritus Sancti gratia
+  composer: Bartholomäus Gesius/Johann Hermann Schein
+  genre: Hymn
+  voicing: SATBB
+  sort: Gesius
 - path: /assets/pdf/Gesius To Jordan Came stanza 2.pdf
   title: To Jordan Came the Christ, Our Lord (stanza 2)
   composer: Bartholomäus Gesius
@@ -183,6 +195,12 @@
   composer: Bartholomäus Gesius
   genre: Hymn stanza
   voicing: SATB
+  sort: Gesius
+- path: assets/pdf/Gesius Why Art Thou Cast Down, O My Heart.pdf
+  title: Why Art Thou Cast Down, O My Heart
+  composer: Bartholomäus Gesius
+  genre: Hymn
+  voicing: SSATB
   sort: Gesius
 - path: /assets/pdf/Gumpelzhaimer From Heaven Above.pdf
   title: From Heaven Above to Earth I Come (sts. 5 & 11)
@@ -388,10 +406,34 @@
   genre: Magnificat
   voicing: SATB
   sort: Praetorius
+- path: assets/pdf/Praetorius Our Father, Who in Heaven Above.pdf
+  title: Our Father, Who in Heaven Above (stanzas 4 & 8)
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
 - path: assets/pdf/Praetorius Psallite unigenito.pdf
   title: Psallite unigenito
   composer: Michael Praetorius
   genre: Motet
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Rejoice We All This Easter-Tide.pdf
+  title: Rejoice We All This Easter-Tide
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius The Bridegroom Soon Will Call Us.pdf
+  title: The Bridegroom Soon Will Call Us
+  composer: Michael Praetorius
+  genre: Magnificat
+  voicing: SATB
+  sort: Praetorius
+- path: assets/pdf/Praetorius Verleih uns Frieden.pdf
+  title: Verleih uns Frieden (English)
+  composer: Michael Praetorius
+  genre: Hymn
   voicing: SATB
   sort: Praetorius
 - path: assets/pdf/Praetorius Mensch, willst du leben seliglich.pdf
