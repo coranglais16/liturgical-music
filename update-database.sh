@@ -17,6 +17,7 @@ fi
 
 yaml_file=docs/_data/database.yml
 input_file=$1
+num_added=0
 
 if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then # file does not end in a newline, so add one
 	echo "" >> $input_file
@@ -39,7 +40,17 @@ while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
 	echo "  genre: $genre" >> $yaml_file
 	echo "  voicing: $voicing" >> $yaml_file
 	echo "  sort: $sort" >> $yaml_file
+	
+	num_added=$((++num_added))
 done < $input_file
+
+if [[ $num_added=1 ]]; then
+	plural='motet'
+elif [[ $num_added<1 ]]; then
+	plural='motets'
+fi
+
+echo "$num_added $plural added to the database."
 
 # sort the database file by composer's last name, then title
 yq -i 'sort_by(.sort, .title)' $yaml_file
