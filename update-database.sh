@@ -46,7 +46,7 @@ done < $input_file
 
 if [[ $num_added=1 ]]; then
 	plural='motet'
-elif [[ $num_added<1 ]]; then
+elif [[ $num_added>1 || $num_added=0 ]]; then
 	plural='motets'
 fi
 
