@@ -442,6 +442,12 @@
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+- path: assets/pdf/Praetorius Quempas Carol.pdf
+  title: Quempas Carol
+  composer: Michael Praetorius
+  genre: Hymn
+  voicing: SATB
+  sort: Praetorius, Michael
 - path: /assets/pdf/Pöpel Virga Jesse.pdf
   title: Virga Jesse floruit
   composer: Thomas Pöpel
