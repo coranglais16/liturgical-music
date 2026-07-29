@@ -81,6 +81,7 @@
   genre: Sequence
   voicing: SATB
   sort: Calvisius
+  date: 2025-05-20
 - path: /assets/pdf/Crüger Aus tiefer Not.pdf
   title: Aus tiefer Not schrei ich zu dir
   composer: Johann Crüger
@@ -185,6 +186,7 @@
   genre: Hymn
   voicing: SATTB
   sort: Gesius
+  date: 2025-05-20
 - path: /assets/pdf/Gesius In Cana in Galilaea English.pdf
   title: In Cana in Galilaea
   composer: Bartholomäus Gesius
@@ -212,6 +214,7 @@
   genre: Hymn
   voicing: SATBB
   sort: Gesius
+  date: 2025-05-20
 - path: /assets/pdf/Gesius To Jordan Came stanza 2.pdf
   title: To Jordan Came the Christ, Our Lord (stanza 2)
   composer: Bartholomäus Gesius
@@ -232,6 +235,7 @@
   genre: Hymn
   voicing: SSATB
   sort: Gesius
+  date: 2025-05-20
 - path: /assets/pdf/Gumpelzhaimer From Heaven Above.pdf
   title: From Heaven Above to Earth I Come (sts. 5 & 11)
   composer: Adam Gumpelzhaimer
@@ -427,24 +431,28 @@
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Ich ruf zu dir, Herr Jesu Christ.pdf
   title: Ich ruf zu dir, Herr Jesu Christ (German and English)
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Jesus Christ, Our Blessed Savior.pdf
   title: Jesus Christ, Our Blessed Savior
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Jesus Christus, unser Heiland, der den Tod.pdf
   title: Jesus Christus, unser Heiland, der den Tod überwand
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: /assets/pdf/Praetorius Kyrie.pdf
   title: Kyrie
   composer: Michael Praetorius
@@ -458,54 +466,63 @@
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Mein Seel erhebt den Herren mein.pdf
   title: My Soul Doth Magnify My Lord
   composer: Michael Praetorius
   genre: Magnificat
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Our Father, Who in Heaven Above.pdf
   title: Our Father, Who in Heaven Above (stanzas 4 & 8)
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Psallite unigenito.pdf
   title: Psallite unigenito
   composer: Michael Praetorius
   genre: Motet
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Rejoice We All This Easter-Tide.pdf
   title: Rejoice We All This Easter-Tide
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius The Bridegroom Soon Will Call Us.pdf
   title: The Bridegroom Soon Will Call Us
   composer: Michael Praetorius
   genre: Magnificat
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Verleih uns Frieden.pdf
   title: Verleih uns Frieden (English)
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Mensch, willst du leben seliglich.pdf
   title: Willt Thou, O Man, Live Happily
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius
+  date: 2025-05-20
 - path: assets/pdf/Praetorius Quempas Carol.pdf
   title: Quempas Carol
   composer: Michael Praetorius
   genre: Hymn
   voicing: SATB
   sort: Praetorius, Michael
+  date: 2025-05-20
 - path: /assets/pdf/Pöpel Virga Jesse.pdf
   title: Virga Jesse floruit
   composer: Thomas Pöpel
