@@ -4,7 +4,7 @@ title: Home
 This is a repository of good liturgical music, made available for anybody who wants it.
 
 <!-- generated via build pipeline; see _data/build.yml for details -->
-Last updated {{ site.data.build.last-commit | date: "%B %-d, %Y" }}.
+Last updated {{ site.data.build.last-build | date: "%B %-d, %Y" }}.
 
 There are currently {{ site.static_files | size }} motets in the repository.
 

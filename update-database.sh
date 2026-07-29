@@ -31,6 +31,7 @@ while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
 	genre="$col4"
 	voicing="$col5"
 	sort="$col6"
+	today=$(date '+%Y-%m-%d') # today's date
 
 	# build the YAML record
 	echo "-" >> $yaml_file
@@ -40,6 +41,7 @@ while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
 	echo "  genre: $genre" >> $yaml_file
 	echo "  voicing: $voicing" >> $yaml_file
 	echo "  sort: $sort" >> $yaml_file
+	echo "  date: $today" >> $yaml_file # date added is today's date
 	
 	num_added=$((++num_added))
 done < $input_file
@@ -56,4 +58,4 @@ echo "$num_added $plural added to the database."
 yq -i 'sort_by(.sort, .title)' $yaml_file
 
 # update the build date
-echo "last-commit: $(git log -1 --format=%cs)" > docs/_data/build.yml
+echo "last-build: $today" > docs/_data/build.yml
