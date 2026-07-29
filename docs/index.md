@@ -20,6 +20,7 @@ There are currently {{ site.static_files | size }} motets in the repository.
     			<th scope="col" data-field="title" data-sortable="true">Title</th>
     			<th scope="col" data-field="genre" data-sortable="true">Genre</th>
     			<th scope="col" data-field="voicing" data-sortable="true">Voicing</th>
+    			<th scope="col" data-field="date" data-sortable="true">Date added</th>
     		</tr>
     	</thead>
     	<tbody class="table-group-divider">
@@ -30,7 +31,8 @@ There are currently {{ site.static_files | size }} motets in the repository.
                     title=id.title 
                     url=id.path 
                     genre=id.genre 
-                    voicing=id.voicing %}
+                    voicing=id.voicing
+                    date=id.date %}
           {% endfor %}
     	</tbody>
     </table>
