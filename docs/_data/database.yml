@@ -1,3 +1,17 @@
+- path: /assets/pdf/Weinmann Vater unser.pdf
+  title: Our Father, Who In Heaven Above (sts. 4 & 8)
+  composer: Johannes Weinmann
+  genre: Hymn stanza
+  voicing: STTB
+  sort: Weinmann
+  date: 2025-06-09-
+  path: assets/pdf/Anonymous All Glory Be to God On High st 3.pdf
+  title: All Glory Be to God On High (st. 3)
+  composer: Anonymous
+  genre: Hymn stanza
+  voicing: Unison
+  sort: Anonymous
+  date: 2026-07-30
 - path: /assets/pdf/Bach Ach was soll ich Sünder machen, BWV 259.pdf
   title: Ach was soll ich Sünder machen, BWV 259
   composer: Johann Sebastian Bach
@@ -47,6 +61,13 @@
   voicing: SATB
   sort: Bach
   date: 2025-06-09
+- path: assets/pdf/Bach The Day Is Surely Drawing Near BWV 734.pdf
+  title: The Day is Surely Drawing Near (st. 6)
+  composer: Johann Sebastian Bach
+  genre: Hymn stanza
+  voicing: Unison
+  sort: Bach
+  date: 2026-07-30
 - path: /assets/pdf/Bach To Jordan Came stanza 5.pdf
   title: To Jordan Came the Christ, Our Lord (stanza 5)
   composer: Johann Sebastian Bach
@@ -61,6 +82,13 @@
   voicing: SATB
   sort: Bach
   date: 2026-07-07
+- path: assets/pdf/Balbi Dicite pusillanimes.pdf
+  title: Dicite pusillanimes
+  composer: Ludovico Balbi
+  genre: Motet
+  voicing: SATB
+  sort: Balbi
+  date: 2026-07-30
 - path: /assets/pdf/Barcrofte O almighty God.pdf
   title: O almighty God
   composer: George Barcrofte
@@ -68,6 +96,13 @@
   voicing: SATB
   sort: Barcrofte
   date: 2025-06-09
+- path: assets/pdf/Bourgeois Joy and Triumph Everlasting.pdf
+  title: Joy and Triumph Everlasting
+  composer: Johann Crüger
+  genre: Hymn
+  voicing: SATB
+  sort: Bourgeois
+  date: 2026-07-30
 - path: /assets/pdf/Calvisius O Lamm Gottes.pdf
   title: O Lamm Gottes, unschuldig
   composer: Sethus Calvisius
@@ -96,6 +131,20 @@
   voicing: SATB
   sort: Crüger
   date: 2025-06-09
+- path: assets/pdf/Crüger Jesus Christ, Our Blessed Savior.pdf
+  title: Jesus Christ, Our Blessed Savior (sts. 4 & 8)
+  composer: Johann Crüger
+  genre: Hymn stanza
+  voicing: SATB
+  sort: Crüger
+  date: 2026-07-30
+- path: assets/pdf/Ebeling Why Should Cross and Trial Grieve Me.pdf
+  title: Why Should Cross and Trial Grieve Me
+  composer: Johannes Eccard
+  genre: Hymn
+  voicing: SATB
+  sort: Ebeling
+  date: 2026-07-30
 - path: /assets/pdf/Eccard Aus Lieb läßt Gott der Christenheit.pdf
   title: Aus Lieb läßt Gott der Christenheit
   composer: Johannes Eccard
@@ -103,6 +152,13 @@
   voicing: SSATB
   sort: Eccard
   date: 2025-06-10
+- path: assets/pdf/Eccard Aus tiefer Not schrei ich zu dir.pdf
+  title: Aus tiefer Not schrei ich zu dir
+  composer: Johannes Eccard
+  genre: Motet
+  voicing: SATTB
+  sort: Eccard
+  date: 2026-07-30
 - path: /assets/pdf/Eccard Der große Tag des Herren.pdf
   title: Der große Tag des Herren
   composer: Johannes Eccard
@@ -124,6 +180,13 @@
   voicing: SATB
   sort: Eccard
   date: 2025-06-10
+- path: assets/pdf/Eccard Jesus Christ, Our Blessed Savior.pdf
+  title: Jesus Christ, Our Blessed Savior (sts. 3, 6, 9)
+  composer: Johannes Eccard
+  genre: Hymn stanza
+  voicing: SATBB
+  sort: Eccard
+  date: 2026-07-30
 - path: /assets/pdf/Eccard Lob Gott getrost mit singen.pdf
   title: Lob Gott getrost mit singen
   composer: Johannes Eccard
@@ -173,6 +236,20 @@
   voicing: SATB
   sort: Farnaby
   date: 2025-06-09
+- path: assets/pdf/Garcia Immutemur habitu.pdf
+  title: Immutemur habitu
+  composer: José Maurício Nunes García
+  genre: Motet
+  voicing: SATB
+  sort: García
+  date: 2026-07-30
+- path: assets/pdf/Gesius Bis mir gnädig, O Herre Gott.pdf
+  title: Bis mir gnädig, O Herre Gott
+  composer: Bartholomäus Gesius
+  genre: Motet
+  voicing: SATTB
+  sort: Gesius
+  date: 2026-07-30
 - path: /assets/pdf/Gesius From Heaven Above.pdf
   title: From Heaven Above to Earth I Come (sts. 7 & 14)
   composer: Bartholomäus Gesius
@@ -188,7 +265,7 @@
   sort: Gesius
   date: 2025-05-20
 - path: /assets/pdf/Gesius In Cana in Galilaea English.pdf
-  title: In Cana in Galilaea
+  title: In Cana Town of Galilee
   composer: Bartholomäus Gesius
   genre: Hymn
   voicing: SATB
@@ -201,6 +278,13 @@
   voicing: SATB
   sort: Gesius
   date: 2025-06-09
+- path: assets/pdf/Gesius O Children of Your God, Rejoice.pdf
+  title: O Children of Your God, Rejoice
+  composer: Bartholomäus Gesius
+  genre: Hymn
+  voicing: SATB
+  sort: Gesius
+  date: 2026-07-30
 - path: /assets/pdf/Gesius O little flock.pdf
   title: O Little Flock, Fear Not the Foe
   composer: Bartholomäus Gesius
@@ -208,6 +292,13 @@
   voicing: SATB
   sort: Gesius
   date: 2025-06-09
+- path: assets/pdf/Gesius Savior Of the Nations, Come st 5.pdf
+  title: Savior of the Nations, Come (st. 5)
+  composer: Bartholomäus Gesius
+  genre: Hymn stanza
+  voicing: SATB
+  sort: Gesius
+  date: 2026-07-30
 - path: assets/pdf/Gesius Spiritus Sancti gratia.pdf
   title: Spiritus Sancti gratia
   composer: Bartholomäus Gesius/Johann Hermann Schein
@@ -222,6 +313,13 @@
   voicing: SATB
   sort: Gesius
   date: 2025-06-09
+- path: assets/pdf/Gesius Verleih uns Frieden.pdf
+  title: Verleih uns Frieden gnädiglich
+  composer: Bartholomäus Gesius
+  genre: Motet
+  voicing: SATTB
+  sort: Gesius
+  date: 2026-07-30
 - path: /assets/pdf/Gesius Wachet auf (stanza 2).pdf
   title: Wake, Awake, for Night is Flying (stanza 2)
   composer: Bartholomäus Gesius
@@ -250,6 +348,27 @@
   voicing: SSATTB
   sort: Hammerschmidt
   date: 2025-06-09
+- path: assets/pdf/Hammerschmidt Machet die Thore weit.pdf
+  title: Machet die Thore weit
+  composer: Andreas Hammerschmidt
+  genre: Motet
+  voicing: SSATTB
+  sort: Hammerschmidt
+  date: 2026-07-30
+- path: assets/pdf/Hammerschmidt Schaffe in mir, Gott.pdf
+  title: Schaffe in mir, Gott, ein reines Hertz
+  composer: Andreas Hammerschmidt
+  genre: Motet
+  voicing: SSATTB
+  sort: Hammerschmidt
+  date: 2026-07-30
+- path: assets/pdf/Hammerschmidt Sey willkommen, Jesulein.pdf
+  title: Sey willkommen, Jesulein
+  composer: Andreas Hammerschmidt
+  genre: Motet
+  voicing: SSATTB
+  sort: Hammerschmidt
+  date: 2026-07-30
 - path: /assets/pdf/Handl Adoramus te Jesu Christe a6.pdf
   title: Adoramus te, Jesu Christe
   composer: Jacob Handl
@@ -257,6 +376,13 @@
   voicing: SSATTB
   sort: Handl
   date: 2025-06-09
+- path: assets/pdf/Handl Ecce quomodo moritur justus.pdf
+  title: Ecco quomodo moritur justus
+  composer: Jacob Handl
+  genre: Motet
+  voicing: SATB
+  sort: Handl
+  date: 2026-07-30
 - path: /assets/pdf/Handl O Herre Gott in meiner Not.pdf
   title: O Herre Gott, in meiner Not
   composer: Jacob Handl
@@ -264,6 +390,13 @@
   voicing: SATB
   sort: Handl
   date: 2025-06-09
+- path: assets/pdf/Handl Resonet in laudibus.pdf
+  title: Resonet in laudibus
+  composer: Jacob Handl
+  genre: Motet
+  voicing: SATB
+  sort: Handl
+  date: 2026-07-30
 - path: /assets/pdf/Hassler Canite tuba a5.pdf
   title: Canite tuba in Sion
   composer: Hans Leo Hassler
@@ -293,7 +426,7 @@
   sort: Heintz
   date: 2025-06-09
 - path: /assets/pdf/Heintz Nun bitten wir.pdf
-  title: Nun bitten wir
+  title: Nun bitten wir den Heiligen Geist
   composer: Wolff Heintz
   genre: Hymn
   voicing: SATB
@@ -313,6 +446,41 @@
   voicing: SATB
   sort: Heugel
   date: 2026-07-07
+- path: assets/pdf/Isaac Dilexisti justitiam.pdf
+  title: Dilexisti justitiam
+  composer: Heinrich Isaac
+  genre: Motet
+  voicing: SATB
+  sort: Isaac
+  date: 2026-07-30
+- path: assets/pdf/Isaac Ego sum pastor bonus.pdf
+  title: Ego sum pastor bonus
+  composer: Heinrich Isaac
+  genre: Motet
+  voicing: SATB
+  sort: Isaac
+  date: 2026-07-30
+- path: assets/pdf/Isaac Introibo ad altare Dei.pdf
+  title: Introibo ad altare Dei
+  composer: Heinrich Isaac
+  genre: Motet
+  voicing: SATB
+  sort: Isaac
+  date: 2026-07-30
+- path: assets/pdf/Isaac Manducaverunt.pdf
+  title: Manducaverunt
+  composer: Heinrich Isaac
+  genre: Motet
+  voicing: SATB
+  sort: Isaac
+  date: 2026-07-30
+- path: assets/pdf/Key O Lord, Send Out Thy Light and Thy Truth.pdf
+  title: O Lord, Send Out Thy Light and Thy Truth
+  composer: Joseph Key
+  genre: Psalm
+  voicing: SATB
+  sort: Key
+  date: 2026-07-30
 - path: /assets/pdf/Knöfel Also hat Gott die Welt geliebt.pdf
   title: Also hat Gott die Welt geliebt
   composer: Johann Knöfel
@@ -320,6 +488,13 @@
   voicing: SSATB
   sort: Knöfel
   date: 2025-06-09
+- path: assets/pdf/Knöfel Also hat Gott die Welt geliebt.pdf
+  title: Also hat Gott die Welt geliebt
+  composer: Sebastian Knöfel
+  genre: Motet
+  voicing: SSATB
+  sort: Knöfel
+  date: 2026-07-30
 - path: /assets/pdf/Lassus Tibi soli peccavi.pdf
   title: Tibi soli peccavi
   composer: Orlando de Lassus
@@ -369,6 +544,13 @@
   voicing: SATTB
   sort: Praetorius
   date: 2025-06-01
+- path: assets/pdf/Praetorius All Glory Be to God on High MS 5-22.pdf
+  title: All Glory Be to God On High (st. 2)
+  composer: Michael Praetorius
+  genre: Hymn stanza
+  voicing: SATB
+  sort: Praetorius
+  date: 2026-07-30
 - path: /assets/pdf/Praetorius Behold By What a Wondrous Art.pdf
   title: Behold By What a Wondrous Art
   composer: Michael Praetorius
@@ -760,11 +942,4 @@
   genre: Motet
   voicing: SATB
   sort: Walter
-  date: 2025-06-09
-- path: /assets/pdf/Weinmann Vater unser.pdf
-  title: Our Father, Who In Heaven Above (sts. 4 & 8)
-  composer: Johannes Weinmann
-  genre: Hymn stanza
-  voicing: STTB
-  sort: Weinmann
   date: 2025-06-09
