@@ -397,13 +397,6 @@
   voicing: SATB
   sort: Praetorius
   date: 2026-07-08
-- path: /assets/pdf/Praetorius Der Morgenstern ist aufgedrungen.pdf
-  title: Der Morgenstern ist aufgedrungen
-  composer: Michael Praetorius
-  genre: Hymn
-  voicing: SATB
-  sort: Praetorius
-  date: 2025-06-01
 - path: /assets/pdf/Praetorius Der du bist drei in Einigkeit.pdf
   title: Der du bist drei in Einigkeit
   composer: Michael Praetorius
@@ -453,13 +446,6 @@
   voicing: SATB
   sort: Praetorius
   date: 2025-05-20
-- path: /assets/pdf/Praetorius Kyrie.pdf
-  title: Kyrie
-  composer: Michael Praetorius
-  genre: Mass Ordinary
-  voicing: SATB
-  sort: Praetorius
-  date: 2025-06-01
 - path: assets/pdf/Praetorius Heut triumphieret Gottes Sohn.pdf
   title: Lo, With This Morning's Dawning Ray
   composer: Michael Praetorius
@@ -635,13 +621,6 @@
   voicing: SATB
   sort: Schütz
   date: 2025-06-20
-- path: /assets/pdf/Schütz Nunc dimittis SWV 433.pdf
-  title: Nunc dimittis, SWV 433
-  composer: Heinrich Schütz
-  genre: Motet
-  voicing: SSATTB
-  sort: Schütz
-  date: 2025-06-01
 - path: /assets/pdf/Schütz Selig sind die Toten.pdf
   title: Selig sind die Toten
   composer: Heinrich Schütz
