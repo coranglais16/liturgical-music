@@ -19,7 +19,8 @@ yaml_file=docs/_data/database.yml
 input_file=$1
 num_added=0
 
-if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then # file does not end in a newline, so add one
+# add newline to end of .tsv file if missing
+if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then
 	echo "" >> $input_file
 fi
 
@@ -43,15 +44,18 @@ while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
 	echo "  sort: $sort" >> $yaml_file
 	echo "  date: $today" >> $yaml_file # date added is today's date
 	
+	# increment the number of motets added
 	num_added=$((++num_added))
 done < $input_file
 
-if [[ $num_added=1 ]]; then
+# grammar check for reporting how many motets were added
+if [[ $num_added -eq 1 ]]; then
 	plural='motet'
-elif [[ $num_added>1 || $num_added=0 ]]; then
+else
 	plural='motets'
 fi
 
+# report on how many motets were added
 echo "$num_added $plural added to the database."
 
 # sort the database file by composer's last name, then title
