@@ -1,11 +1,4 @@
-- path: /assets/pdf/Weinmann Vater unser.pdf
-  title: Our Father, Who In Heaven Above (sts. 4 & 8)
-  composer: Johannes Weinmann
-  genre: Hymn stanza
-  voicing: STTB
-  sort: Weinmann
-  date: 2025-06-09-
-  path: assets/pdf/Anonymous All Glory Be to God On High st 3.pdf
+- path: assets/pdf/Anonymous All Glory Be to God On High st 3.pdf
   title: All Glory Be to God On High (st. 3)
   composer: Anonymous
   genre: Hymn stanza
@@ -942,4 +935,11 @@
   genre: Motet
   voicing: SATB
   sort: Walter
+  date: 2025-06-09
+- path: /assets/pdf/Weinmann Vater unser.pdf
+  title: Our Father, Who In Heaven Above (sts. 4 & 8)
+  composer: Johannes Weinmann
+  genre: Hymn stanza
+  voicing: STTB
+  sort: Weinmann
   date: 2025-06-09
