@@ -15,6 +15,12 @@ if [[ -z "$1" ]]; then
   exit 1
 fi
 
+# if the file is empty, then fail
+if [[ ! -s "$1" ]]; then
+	echo "Empty file!"
+	exit 1
+fi
+
 yaml_file=docs/_data/database.yml
 input_file=$1
 num_added=0
