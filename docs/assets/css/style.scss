@@ -5,7 +5,7 @@
 @import "bootstrap/bootstrap";
 
 /* custom styles */
-h1.not-website-banner {
+h1:not(.display-1) { /* excludes display-1 from this style */
 	text-align: center;
 	text-transform: uppercase;
 }
