@@ -5,6 +5,7 @@
 @import "bootstrap/bootstrap";
 
 /* custom styles */
-h1 {
+h1.not-title {
 	text-align: center;
+	text-transform: uppercase;
 }
