@@ -3,7 +3,10 @@
 # This script reads from a tab-delimited file passed as $1.
 # The file must be formatted with information in six columns:
 ### filepath (beginning at assets/pdf/), title, composer, genre, voicing, sort key
-# It builds a YAML record out of each set of six columns.
+# First, the script moves each file from
+### '/Users/jonathan/Documents/Choral music/ Add to Liturgical Music Repo'
+### to /docs/assets/pdf.
+# Then it builds a YAML record out of each set of six columns.
 # The YAML record includes a seventh key, the date added, which is set to today's date.
 # It adds the YAML record to docs/_data/database.yml.
 # Then it sorts the database by the sort key and the title.
@@ -26,6 +29,10 @@ fi
 yaml_file=docs/_data/database.yml
 input_file=$1
 num_added=0
+
+
+
+
 
 # add newline to end of .tsv file if missing
 if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then
