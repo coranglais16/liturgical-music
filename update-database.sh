@@ -26,13 +26,10 @@ if [[ ! -s "$1" ]]; then
 	exit 1
 fi
 
+# initialize variables
 yaml_file=docs/_data/database.yml
 input_file=$1
 num_added=0
-
-
-
-
 
 # add newline to end of .tsv file if missing
 if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then
