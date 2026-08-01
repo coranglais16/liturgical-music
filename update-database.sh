@@ -16,8 +16,8 @@
 
 # if there's no file passed to the script, then fail
 if [[ -z "$1" ]]; then
-  echo "Usage: ./update-database.sh FILENAME.tsv"
-  exit 1
+	echo "Usage: ./update-database.sh FILENAME.tsv"
+	exit 1
 fi
 
 # if the file is empty, then fail
@@ -30,6 +30,13 @@ fi
 yaml_file=docs/_data/database.yml
 input_file=$1
 num_added=0
+old_dir=/Users/jonathan/Documents/Choral\ music/\ Add\ to\ Liturgical\ Music\ Repo
+new_dir=/docs/assets/pdf
+
+# move each file from Add to Liturgical Music Repo to /docs/assets/pdf
+for file in "$old_dir"/*; do
+	mv "$file" "$new_dir"
+done
 
 # add newline to end of .tsv file if missing
 if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then
