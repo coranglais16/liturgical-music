@@ -7,7 +7,7 @@
 ### filepath (beginning at assets/pdf/), title, composer, genre, voicing, sort key
 # First, the script moves each file from
 ### '/Users/jonathan/Documents/Choral music/ Add to Liturgical Music Repo'
-### to /docs/assets/pdf.
+### to docs/assets/pdf.
 # Then it builds a YAML record out of each set of six columns.
 # The YAML record includes a seventh key, the date added, which is set to today's date.
 # It adds the YAML record to docs/_data/database.yml.
