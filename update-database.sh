@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Usage: ./update-database.sh FILENAME.tsv
+
 # This script reads from a tab-delimited file passed as $1.
 # The file must be formatted with information in six columns:
 ### filepath (beginning at assets/pdf/), title, composer, genre, voicing, sort key
@@ -11,8 +13,6 @@
 # It adds the YAML record to docs/_data/database.yml.
 # Then it sorts the database by the sort key and the title.
 # Finally it updates the build date for the website.
-
-# Usage: ./update-database.sh FILENAME.tsv
 
 # if there's no file passed to the script, then fail
 if [[ -z "$1" ]]; then
