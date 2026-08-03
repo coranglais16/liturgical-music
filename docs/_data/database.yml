@@ -495,6 +495,13 @@
   voicing: SATB
   sort: Lassus
   date: 2025-06-09
+- path: assets/pdf/Lossius O Come, Thou Spirit.pdf
+  title: O Come, Thou Spirit
+  composer: Lucas Lossius
+  genre: Hymn
+  voicing: SATB
+  sort: Lossius
+  date: 2026-08-03
 - path: /assets/pdf/Luther Non moriar sed vivam.pdf
   title: Non moriar sed vivam
   composer: Martin Luther
@@ -502,6 +509,13 @@
   voicing: SATB
   sort: Luther
   date: 2025-06-09
+- path: assets/pdf/Mendelssohn He That Shall Endure To the End.pdf
+  title: He That Shall Endure To the End
+  composer: Felix Mendelssohn
+  genre: Motet
+  voicing: SATB
+  sort: Mendelssohn
+  date: 2026-08-03
 - path: /assets/pdf/Mozart Ave verum Corpus.pdf
   title: Ave verum corpus
   composer: Wolfgang Amadeus Mozart
@@ -684,6 +698,13 @@
   voicing: SATB
   sort: Praetorius, Michael
   date: 2025-05-20
+- path: assets/pdf/Purcell O God, the King of Glory.pdf
+  title: O God, the King of Glory
+  composer: Henry Purcell
+  genre: Motet
+  voicing: SATB
+  sort: Purcell
+  date: 2026-08-03
 - path: /assets/pdf/Pöpel Virga Jesse.pdf
   title: Virga Jesse floruit
   composer: Thomas Pöpel
@@ -691,6 +712,27 @@
   voicing: SATB
   sort: Pöpel
   date: 2025-06-09
+- path: assets/pdf/Rathgeber Benedicite gentes.pdf
+  title: Benedicite gentes
+  composer: Valentin Rathgeber
+  genre: Motet
+  voicing: SATB
+  sort: Rathgeber
+  date: 2026-08-03
+- path: assets/pdf/Rathgeber Exspectans exspectavi.pdf
+  title: Exspectans exspectavi
+  composer: Valentin Rathgeber
+  genre: Motet
+  voicing: SATB
+  sort: Rathgeber
+  date: 2026-08-03
+- path: assets/pdf/Schein Have Mercy On Me, Lord, My God.pdf
+  title: Have Mercy On Me, Lord, My God
+  composer: Johann Hermann Schein
+  genre: Hymn
+  voicing: SATB
+  sort: Schein
+  date: 2026-08-03
 - path: /assets/pdf/Schein Spiritus Sancti gratia.pdf
   title: Spiritus Sancti gratia
   composer: Johann Hermann Schein
@@ -915,6 +957,13 @@
   voicing: SATTB
   sort: Walter
   date: 2025-06-09
+- path: assets/pdf/Walter Salvation Unto Us Has Come sts 3 6 9.pdf
+  title: Salvation Unto Us Has Come (stanzas 3, 6, 9)
+  composer: Johann Walter
+  genre: Hymn stanza
+  voicing: SATB
+  sort: Walter
+  date: 2026-08-03
 - path: /assets/pdf/Walter The Lord My Trusty Shepherd Is.pdf
   title: The Lord My Trusty Shepherd Is (stanza 3)
   composer: Johann Walter
