@@ -9,6 +9,7 @@
 ### '/Users/jonathan/Documents/Choral music/ Add to Liturgical Music Repo'
 ### to docs/assets/pdf.
 # Then it builds a YAML record out of each set of six columns.
+# In so doing, it updates the value of the 'path' key to begin with docs/assets/pdf.
 # The YAML record includes a seventh key, the date added, which is set to today's date.
 # It adds the YAML record to docs/_data/database.yml.
 # Then it sorts the database by the sort key and the title.
@@ -43,6 +44,7 @@ if ! [[ $(tail -c1 "$input_file" | wc -l) -gt 0 ]]; then
 	echo "" >> $input_file
 fi
 
+
 while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
 	# assign the variables
 	path="$col1"
@@ -52,6 +54,9 @@ while IFS=$'\t' read -r col1 col2 col3 col4 col5 col6; do
 	voicing="$col5"
 	sort="$col6"
 	today=$(date '+%Y-%m-%d') # today's date
+	
+	# change prefix of path to docs/assets/pdf
+	new_path="$new_dir/${path##*/}"
 
 	# build the YAML record
 	echo "-" >> $yaml_file
