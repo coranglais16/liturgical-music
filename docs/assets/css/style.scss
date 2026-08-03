@@ -10,6 +10,11 @@ h1:not(.display-1) { /* excludes display-1 from this style */
 	text-transform: uppercase;
 }
 
+h6 {
+	display:inline;
+	margin-left: 0.5em;
+}
+
 .display-1 {
 	font-size: 750%;
 }

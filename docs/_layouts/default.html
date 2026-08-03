@@ -19,6 +19,7 @@
 		<div class="col">
 			<a href="{{ '/' | relative_url }}"><img src="{{ 'assets/schütz.jpg' | relative_url }}" alt="An image of Heinrich Schütz" class="h-100 float-start"></a>
 			<h1 class="display-1">{{ site.title }}</h1>
+			<h6>Good liturgical music, available for anybody who wants it</h6>
 			<nav class="nav bg-light">
 				{%- assign nav_pages = site.html_pages | where_exp: "item", "item.title != 'Home'" %}
 				{%- for p in nav_pages %}
