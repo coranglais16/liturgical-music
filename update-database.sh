@@ -31,7 +31,7 @@ yaml_file=docs/_data/database.yml
 input_file=$1
 num_added=0
 old_dir=/Users/jonathan/Documents/Choral\ music/\ Add\ to\ Liturgical\ Music\ Repo
-new_dir=/docs/assets/pdf
+new_dir=docs/assets/pdf
 
 # move each file from Add to Liturgical Music Repo to /docs/assets/pdf
 for file in "$old_dir"/*; do
